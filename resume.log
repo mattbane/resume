@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.26)  6 JUN 2017 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (TeX Live 2015/Debian) (preloaded format=pdflatex 2016.5.26)  7 JUN 2017 19:14
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -90,25 +90,25 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 43--44
 [][][][][][][]  
  []
 
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 46.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 60--61
+[][][][][][][]  
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 63.
 (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 46.
-
-Overfull \hbox (6.0pt too wide) in paragraph at lines 59--60
-[][][][][][][]  
- []
-
-[1
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 63.
+ [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 Missing character: There is no â in font cmr10!
 Missing character: There is no € in font cmr10!
 Missing character: There is no ™ in font cmr10!
 
-Overfull \hbox (6.0pt too wide) in paragraph at lines 124--125
+Overfull \hbox (6.0pt too wide) in paragraph at lines 125--126
 [][][][][][][]  
  []
 
@@ -116,18 +116,18 @@ Overfull \hbox (6.0pt too wide) in paragraph at lines 124--125
 Here is how much of TeX's memory you used:
  1013 strings out of 494953
  13225 string characters out of 6180977
- 72356 words of memory out of 5000000
+ 71356 words of memory out of 5000000
  4342 multiletter control sequences out of 15000+600000
  7505 words of font info for 27 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 23i,7n,22p,276b,242s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 23i,7n,22p,276b,206s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmb
 x12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 ></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
 /share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share
 /texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on resume.pdf (2 pages, 89224 bytes).
+Output written on resume.pdf (2 pages, 89243 bytes).
 PDF statistics:
  35 PDF objects out of 1000 (max. 8388607)
  24 compressed objects within 1 object stream
